@@ -31,3 +31,9 @@
 - stand-up：[米国脱口秀](https://space.bilibili.com/142371069?from=search&seid=9413455629274285401&spm_id_from=333.337.0.0)
 - 情景喜剧：如《生活大爆炸》《老友记》等
 - 其它影视作品
+
+# Usage
+在原仓库的基础上，调整了md文件的格式，可以直接导入Logseq，创建一个新的图库。用Logseq的Flashcards来记忆。详见Blog：[如何使用Logseq背单词](https://sspai.com/post/88197)
+效果展示：
+![image](https://github.com/dengxian-xreal/coca-vocabulary-20000/assets/134575521/15bb2eb9-3a76-4d1c-9ec6-6f073cdf3358)
+![image](https://github.com/dengxian-xreal/coca-vocabulary-20000/assets/134575521/1ac16188-d485-4a07-826e-e49dc59bb250)
